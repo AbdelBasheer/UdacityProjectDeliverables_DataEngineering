@@ -1,2 +1,0 @@
-# UdacityProjectDeliverables_DataEngineering
-Data Modeling with Postgres
